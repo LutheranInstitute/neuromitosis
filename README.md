@@ -27,7 +27,7 @@ Read [MCP.md](MCP.md) for the full architecture vision.
 ## Quick Start
 
 ```bash
-git clone https://github.com/yaeleureka-afk/neuromitosis.git
+git clone https://github.com/LutheranInstitute/neuromitosis.git
 cd neuromitosis
 cargo build --release
 cargo run -- status

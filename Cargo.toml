@@ -20,7 +20,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Yael <yael.eureka@gmail.com>"]
 license = "MIT"
-repository = "https://github.com/yaeleureka-afk/neuromitosis"
+repository = "https://github.com/LutheranInstitute/neuromitosis"
 
 [workspace.dependencies]
 # Async runtime
